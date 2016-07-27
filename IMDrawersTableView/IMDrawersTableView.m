@@ -27,6 +27,7 @@
 - (id)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
+        _cellHeaderHeight = 44.0;
         _openedIndex = -1;
         
         _scrollView = [UIScrollView new];
