@@ -15,7 +15,11 @@ Please feel free to try the IMDrawersTableViewDemo project in Xcode. It demonstr
 
 ## Installation
 
-Simply drag & drop the IMDrawersTableView folder to your project.
+### CocoaPods
+If you are using [CocoaPods](http://www.cocoapods.org), simply add `pod 'IMDrawersTableView'` to your Podfile.
+
+### Drag & Drop
+Simply drag & drop the `IMDrawersTableView` folder to your project.
 
 ## Usage
 
